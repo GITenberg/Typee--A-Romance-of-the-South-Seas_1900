@@ -1,0 +1,52 @@
+_repo: Typee--A-Romance-of-the-South-Seas_1900
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Melville, Herman
+    alias: Melville, Hermann
+    birthdate: 1819
+    deathdate: 1891
+    gutenberg_agent_id: '9'
+    url: http://www.gutenberg.org/2009/agents/9
+    wikipedia: http://en.wikipedia.org/wiki/Herman_Melville
+  editor:
+    agent_name: Stedman, Arthur Griffin
+    alias: Stedman, Arthur G. (Arthur Griffin)
+    birthdate: 1859
+    deathdate: 1908
+    gutenberg_agent_id: '26604'
+    url: http://www.gutenberg.org/2009/agents/26604
+description: "Typee: A Peep at Polynesian Life is the first book by American writer\
+  \ Herman Melville, published first in London, then New York, in 1846. Considered\
+  \ a classic in travel and adventure literature, the narrative is partly based on\
+  \ the author's actual experiences on the island Nuku Hiva in the South Pacific Marquesas\
+  \ Islands in 1842, liberally supplemented with imaginative reconstruction and adaptation\
+  \ of material from other books. The title is from the province Tai Pi Vai. Typee\
+  \ was Melville's most popular work during his lifetime; it made him notorious as\
+  \ the \"man who lived among the cannibals\".\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1999-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1900'
+  wikidata: Q2463076
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marquesas Islands (French Polynesia) -- Fiction'
+- !lcsh 'Indigenous peoples -- Fiction'
+- !lcsh 'Sailors -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- GITenberg
+title: 'Typee: A Romance of the South Seas'
+url: http://www.gutenberg.org/ebooks/1900
+wikipedia:
+- https://fr.wikipedia.org/wiki/Ta%C3%AFpi
+- https://ar.wikipedia.org/wiki/%D8%AA%D8%A7%D9%8A%D8%A8%D9%8A_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)
+- https://pt.wikipedia.org/wiki/Typee:_Um_Olhar_sobre_a_Vida_na_Polin%C3%A9sia
+- https://de.wikipedia.org/wiki/Typee
+- https://en.wikipedia.org/wiki/Typee
+- https://it.wikipedia.org/wiki/Taipi
+- https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D0%BF%D0%B8
