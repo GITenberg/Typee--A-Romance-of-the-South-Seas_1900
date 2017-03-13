@@ -1,5 +1,8 @@
 _repo: Typee--A-Romance-of-the-South-Seas_1900
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Melville, Herman
@@ -24,6 +27,8 @@ description: "Typee: A Peep at Polynesian Life is the first book by American wri
   \ of material from other books. The title is from the province Tai Pi Vai. Typee\
   \ was Melville's most popular work during his lifetime; it made him notorious as\
   \ the \"man who lived among the cannibals\".\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1900#Typee--A-Romance-of-the-South-Seas
 gutenberg_issued: '1999-09-01'
 gutenberg_type: Text
 identifiers:
